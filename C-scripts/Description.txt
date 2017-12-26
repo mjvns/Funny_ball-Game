@@ -1,0 +1,1 @@
+This folder contains all my scripts that belong to the funny ball game.
